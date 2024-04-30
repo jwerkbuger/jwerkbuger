@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     );
 -->
 <div class="back" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=👋&fontSize=70&fontColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=94B2FF&height=150&section=header&text=💩&fontSize=70&fontColor=000000"/>
 </div>
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=👋&fontSize=70&fontColor=000000)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=60&pause=1000&color=00000075&center=true&vCenter=true&random=false&width=900&height=100&lines=hi+NEWBIE+is+here)](https://git.io/typing-svg) -->
